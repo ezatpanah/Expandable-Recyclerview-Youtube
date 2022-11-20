@@ -3,7 +3,7 @@ package com.ezatpanah.expandable_recyclerview.model
 
 object SampleData {
 
-    private val movieModels = listOf(
+    private val flowerList = listOf(
         SubItemModel("Rose"),
         SubItemModel("Daisy"),
         SubItemModel("Lily"),
@@ -13,9 +13,10 @@ object SampleData {
         SubItemModel("Tulip")
     )
 
-    val collections = listOf(
-        MainModel("All Flowers ", movieModels),
-        MainModel("Want to Buy", movieModels.reversed()),
-        MainModel("Popular Flowers", movieModels.shuffled()),
+    val collectios = listOf(
+        MainModel("All Flowers",flowerList),
+        MainModel("Want to buy",flowerList.reversed()),
+        MainModel("Popular Flowers",flowerList.shuffled()),
     )
+    
 }
