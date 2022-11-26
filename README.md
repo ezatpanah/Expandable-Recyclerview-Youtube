@@ -3,9 +3,9 @@
 
 YouTube Video :
 <br>  
-<a href="" target="_blank"><img alt="Ezatpanah  Expandable-RecyclerView-Youtube" src="Screenshot_1668953379.png" width="40%"></a>
+<a href="" target="_blank"><img alt="Ezatpanah  Expandable-RecyclerView-Youtube" src="Expandable-RecyclerView-cover.jpg" width="60%"></a>
 <br>
-<img alt="Ezatpanah  Expandable-RecyclerView-Youtube" src="ezgif-2-8f0fde0a2f.gif" width="20%">
+<a href="" target="_blank"><img alt="Ezatpanah  Expandable-RecyclerView-Youtube" src="Screenshot_1668953379.png" width="40%"></a>
 
 
 
