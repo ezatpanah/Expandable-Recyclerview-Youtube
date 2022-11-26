@@ -11,8 +11,7 @@ YouTube Video :
 
 Article on Medium:
 <br>
-
-<br>
+https://androidgeek.co/how-to-use-expandable-recyclerview-in-kotlin-part-2-nested-recyclerview-5123a27578e6<br>
 <br>
 
 ✨ Join Medium to read thousands of valuable stories ✨
